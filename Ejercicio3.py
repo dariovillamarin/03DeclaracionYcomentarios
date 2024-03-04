@@ -1,2 +1,2 @@
-variable="nombre"
+variable= True
 print(variable)
